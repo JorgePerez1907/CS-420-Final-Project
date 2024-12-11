@@ -1,0 +1,1 @@
+This is the repository for my CS 420 Final Project with the esteemed Professor Dominic Dabish. I've created a simple esoteric language that is set up like writing a very short, badly formatted story. I wanted to make this better but the power is out all over the town I live in and could not access the code I had going in progress, so I started over. 
