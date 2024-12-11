@@ -1,0 +1,10 @@
+There once was a hero named Vars. 
+Vars had 15 gold. 
+Vars earned 3 gold. 
+Vars lost 10 gold. 
+Bards told the tale of Vars.
+He formed a party with Alice, Bob, and Charlie.
+For each member in the party, they gained 5 gold.
+Bards told the tale of Vars. 
+If Vars was pure, he could complete the quest.
+If he defeats the demon king, the quest is complete.
